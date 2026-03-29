@@ -14,9 +14,4 @@ I am Venezuelan 🇻🇪 and I am proud of it.
 
 ---
 
-## 📊 GitHub Stats:
-![Andres's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndresParacare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
 ![Andres's Streak](https://streak-stats.demolab.com/?user=AndresParacare&theme=dark&hide_border=false)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresParacare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
